@@ -2,6 +2,13 @@
 
 A full-stack property booking platform built with Next.js, Node.js, Express, MongoDB, and TypeScript.
 
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/688fd4a4-75b5-4f0b-bc5b-2055180746f8" />
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/96ada6cd-ede7-462e-93bd-a1e71660ac46" />
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/af5b5284-2c6a-45dd-b1f2-293933920307" />
+
+
+
+
 ## 🚀 Features
 
 ### Core Functionality
